@@ -1,1 +1,1 @@
-
+Raport końcowy jest podsumowaniem wykonanej pracy , który oprócz wyników przeprowadzonych testów opisuje co i jak należy poprawić aby zwiększyć zadowolenie zlecającego oraz użytkowników końcowych aplikacji
